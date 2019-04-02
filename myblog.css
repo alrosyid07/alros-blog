@@ -255,9 +255,13 @@ footer{
 	.posted{
 		width:90%;
 		margin: 0 auto;
-		padding:0rem;
+		padding:0.5rem;
 		padding-top: 2rem;
 		color: black;
+	}
+	
+	.content{
+	padding:0.5rem;
 	}
 	
 	.banner{
