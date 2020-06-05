@@ -5,4 +5,4 @@ webdesign
 demo
 
 
-http://harunalrosyid.site/alros-blog/
+https://harun248.github.io/alros-blog/
